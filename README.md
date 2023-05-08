@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there 👋 I'm [Jaseela]!
 
-<!--
-**jaseelaali/jaseelaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate girl backend developer in Go who loves to build scalable and robust web applications. With experience in [go,postgres,docker,kubernetes,mongodb], I enjoy solving complex problems and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## 🔭 Current Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on [project name], a [brief description of your project].
+
+## 🌱 Technologies
+
+Here are some of the technologies I'm proficient in:
+
+- Go
+- SQL
+- REST APIs
+- Docker
+- AWS
+
+## 💻 GitHub Stats
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+
+## 📫 Contact
+
+If you'd like to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/yourname) or [Twitter](https://twitter.com/yourhandle).
+
+## ✨ Fun fact
+
+Did you know that [insert fun fact related to you or your interests]?
+
+Thanks for stopping by! 😊
