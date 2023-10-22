@@ -1,31 +1,84 @@
-# Hi there 👋 I'm [Jaseela]!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
-I'm a passionate girl backend developer in Go who loves to build scalable and robust web applications. With experience in [go,postgres,docker,kubernetes,mongodb], I enjoy solving complex problems and contributing to open-source projects.
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
-## 🔭 Current Project
+<p align="center">
 
-I'm currently working on [project name], a [brief description of your project].
+<a href="https://www.linkedin.com/in/jaseela-a-a-312439241"> 
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
 
-## 🌱 Technologies
+<a href="https://www.instagram.com/_jaseel_a_ali_/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
 
-Here are some of the technologies I'm proficient in:
+<p align="center">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+</p>
 
-- Go
-- SQL
-- REST APIs
-- Docker
-- AWS
+---
 
-## 💻 GitHub Stats
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+```yaml
+name: Jaseela A A 
+located_in: Cochin , Kerala
+current_status: Backend Developer in GOLANG
+education:
+  [
+    "Self-Taught Backend Developer ",
+    "Bachelor's in Computer Science and Engineering",
+  ]
 
-## 📫 Contact
+fields_of_interests:
+  [
+    "Backend Development",
+    "Database",
+    "Data Structure",
+  ]
+  
+currently_learning: ["Clean Architecture,Unit test"]
+2024 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Art", "writing"]
+```
+  
+---  
+  
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="45" height="45"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+ <img src="https://jwt.io/img/logo-asset.svg" alt="jwt" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>       
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="45" height="45"/>
+ <img src="https://community.developer.visa.com/t5/image/serverpage/image-id/851i991A3CA8A20BFAA3/image-dimensions/136x136?v=v2" alt="postman" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
 
-If you'd like to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/yourname) or [Twitter](https://twitter.com/yourhandle).
+</p>
 
-## ✨ Fun fact
+---
 
-Did you know that [insert fun fact related to you or your interests]?
+<h2> 📈 &nbsp;My GitHub History!</h2>
 
-Thanks for stopping by! 😊
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
