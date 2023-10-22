@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "https://i.pinimg.com/originals/ba/76/ef/ba76ef5073422254cdd76038a817875c--gif-cool-anime-fight.jpg">
 </p>
 
 ---
